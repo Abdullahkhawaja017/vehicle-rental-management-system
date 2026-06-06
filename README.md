@@ -21,8 +21,8 @@ Built using Python (Tkinter) and Microsoft SQL Server, it provides a simple and 
 - SQL
 
 ## Contributors
-- Your Name
-- Friend's Name
-
+Muhmmad Abdullah
+Abdul Sami Abbasi
+Bilal Aamir
 ## Purpose
 This project was built as part of a DBMS academic assignment to demonstrate database integration with a desktop application.
